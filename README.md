@@ -8,7 +8,7 @@ Esta ferramenta é útil para planejamento logístico, treinamento ou visualiza�
 
 ## Recursos
 
-- **Lista de Endereços**: Insira endereços no formato hierárquico (ex: A-01-01 ou A-01-01-01) para representar locais de armazenamento.
+- **Lista de Endereços**: Insira endereços no formato hierárquico (ex: R1-P1-A-1) para representar locais de armazenamento.
 - **Geração de Depósito**: Crie automaticamente uma estrutura de armazém com ruas, prédios, níveis e apartamentos.
 - **Iniciar Tour**: Navegue pelos endereços gerados em uma simulação interativa.
 - **Estatísticas**: Visualize o número de ruas, prédios, níveis e apartamentos gerados.
