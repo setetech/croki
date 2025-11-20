@@ -1,0 +1,5 @@
+{
+  "name": "WMS 3D Visualizer",
+  "description": "A 3D visualization of a warehouse layout with streets, racks, and specific location highlighting capabilities.",
+  "requestFramePermissions": []
+}
